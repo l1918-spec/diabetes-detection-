@@ -1,10 +1,10 @@
-# **Diabetes Detection using Machine Learning**
+# **Diabetes Detection using Machine Learning** :
 
 This project aims to detect diabetes in patients using machine learning algorithms. It is built using Python and leverages popular libraries such as **numpy**, **pandas**, and **scikit-learn**.
 
 ---
 
-## **Features**  
+## **Features**  : 
 - **Data preprocessing and cleaning**  
 - **Feature selection**  
 - **Model training and evaluation using Support Vector Machine (SVM)**  
@@ -13,14 +13,14 @@ This project aims to detect diabetes in patients using machine learning algorith
 
 ---
 
-## **Prerequisites**  
+## **Prerequisites**  :
 - **Anaconda** (for managing Python packages and environments)  
 - **PyCharm** (or any other Python IDE)  
 - **Basic knowledge of Python and machine learning**
 
 ---
 
-## **Libraries Used**  
+## **Libraries Used**  :
 ```python
 import numpy as np  
 import pandas as pd  
